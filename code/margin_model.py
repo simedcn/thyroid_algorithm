@@ -1,9 +1,3 @@
-"""CIFAR10 example for cnn_finetune.
-Based on:
-- https://github.com/pytorch/tutorials/blob/master/beginner_source/blitz/cifar10_tutorial.py
-- https://github.com/pytorch/examples/blob/master/mnist/main.py
-"""
-
 import argparse
 
 import torch

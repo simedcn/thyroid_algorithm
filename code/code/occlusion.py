@@ -1,9 +1,3 @@
-# Example usage:
-# python occlusion.py 
-#   --image_dir=/path/to/image
-#   --graph=retrained_graph.pb
-#   --labels=retrained_labels.txt
-
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
