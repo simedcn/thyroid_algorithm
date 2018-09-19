@@ -1,0 +1,18 @@
+Breast Cancer Histopathological Image Classification: Is Magnification Important?
+A Logarithmic X-Ray Imaging Model for Baggage Inspection: Simulation and Object Detection
+Learning Deep Context-Aware Features over Body and Latent Parts for Person Re-identification
+Perceptual Generative Adversarial Networks for Small Object Detection
+Not All Pixels Are Equal: Difficulty-Aware Semantic Segmentation via Deep Layer Cascade
+Multi-attention Network for One Shot Learning
+ChestX-Ray8: Hospital-Scale Chest X-Ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases
+Delineation of Skin Strata in Reflectance Confocal Microscopy Images with Recurrent Convolutional Networks
+An Early Experience Toward Developing Computer Aided Diagnosis for Gram-Stained Smears Images
+Linking Image and Text with 2-Way Nets
+High-Magnification Multi-views Based Classification of Breast Fine Needle Aspiration Cytology Cell Samples Using Fusion of Decisions from Deep Convolutional Networks
+Self-Supervised Learning of Visual Features through Embedding Images into Text Topic Spaces
+Attentional Push: A Deep Convolutional Network for Augmenting Image Salience with Shared Attention Modeling in Social Scenes
+Active Convolution: Learning the Shape of Convolution for Image Classification
+A survey on deep learning in medical image analysis
+Spatial Organization and Molecular Correlation of Tumor-Infiltrating Lymphocytes Using Deep Learning on Pathology Images
+Histopathological classification of precursor lesions of esophageal adenocarcinoma: A Deep Multiple Instance Learning Approach
+GAN-based Synthetic Medical Image Augmentation for increased CNN Performance in Liver Lesion Classification
